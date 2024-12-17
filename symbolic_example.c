@@ -2,7 +2,7 @@
 #include <string.h>
 #include "/home/roxana/asm/asm/stub_model/header-new/klee.h"
 
-#define MAX_LEN 10
+#define MAX_LEN 5
 
 int process_char(char c) {
     int result = 0;
